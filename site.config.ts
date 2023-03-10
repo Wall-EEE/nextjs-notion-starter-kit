@@ -9,19 +9,19 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Walle-3',
-  domain: 'parallel-accordion-dc0.notion.site',
+  domain: 'Walle-3.com',
   author: 'Adrian Walle',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion, testing with Walle-3',
+  description: 'Walle-3 with Notion as CMS',
 
   // social usernames (optional)
-  twitter: 'Walle-3',
+  twitter: 'AdrianWalle_',
   github: 'Wall-EEE',
-  linkedin: '',
+  linkedin: 'adrian-walle',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: 'awall3', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults

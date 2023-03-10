@@ -48,6 +48,11 @@ This project requires a recent version of Node.js (we recommend >= 16).
 4. `npm run dev` to test locally
 5. `npm run deploy` to deploy to vercel 💪
 
+To deploy on vercel via github: Commit your changes via "
+git add .
+git commit -m"First commit"
+git push
+
 I tried to make configuration as easy as possible — All you really need to do to get started is edit `rootNotionPageId`.
 
 We recommend duplicating the [default page](https://notion.so/7875426197cf461698809def95960ebf) as a starting point, but you can use any public notion page you want.
